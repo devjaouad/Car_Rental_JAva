@@ -1,0 +1,265 @@
+--------------------------------------------------------------------------
+**************** Employee Information ****************
+--------------------------------------------------------------------------
+First Name: jaouad
+Last Name: mouaou
+Social Security: 22
+Date Of Birth: 01/01/1989
+Address: 59 w st
+Age: 26
+Email: dev
+Job Title: IT
+--------------------------------------------------------------------------
+**************** Employee Information ****************
+--------------------------------------------------------------------------
+First Name: jaouad
+Last Name: mouaou
+Social Security: 22
+Date Of Birth: 01/01/1989
+Address: 59 w st
+Age: 26
+Email: dev
+Job Title: IT
+--------------------------------------------------------------------------
+**************** Employee Information ****************
+--------------------------------------------------------------------------
+First Name: kj
+Last Name: kj
+Social Security: 111
+Date Of Birth: 04/18/1999
+Address: kj
+Age: 16
+Email: lklk
+Job Title: lkl
+--------------------------------------------------------------------------
+**************** Employee Information ****************
+--------------------------------------------------------------------------
+First Name: 4545
+Last Name: kjkj545
+Social Security: 1111
+Date Of Birth: 12/12/1989
+Address: kj5454
+Age: 26
+Email: 54545454545
+Job Title: 5454545454
+--------------------------------------------------------------------------
+**************** Employee Information ****************
+--------------------------------------------------------------------------
+First Name: 4545
+Last Name: kjkj545
+Social Security: 1111
+Date Of Birth: 12/12/1989
+Address: kj5454
+Age: 26
+Email: 54545454545
+Job Title: 5454545454
+--------------------------------------------------------------------------
+**************** Employee Information ****************
+--------------------------------------------------------------------------
+First Name: mouaou
+Last Name: mouaou
+Social Security: 1212
+Date Of Birth: 12/12/1989
+Address: kk
+Age: 26
+Email: ggg
+Job Title: hhhg
+--------------------------------------------------------------------------
+**************** Employee Information ****************
+--------------------------------------------------------------------------
+First Name: mouaou
+Last Name: mouaou
+Social Security: 1212
+Date Of Birth: 12/12/1989
+Address: kk
+Age: 26
+Email: ggg
+Job Title: hhhg
+--------------------------------------------------------------------------
+**************** Employee Information ****************
+--------------------------------------------------------------------------
+First Name: 4545
+Last Name: kjkj545
+Social Security: 1111
+Date Of Birth: 12/12/1989
+Address: kj5454
+Age: 26
+Email: 54545454545
+Job Title: 5454545454
+--------------------------------------------------------------------------
+**************** Employee Information ****************
+--------------------------------------------------------------------------
+First Name: jaouad
+Last Name: mouaou
+Social Security: 111
+Date Of Birth: 12/12/1989
+Address: jjj
+Age: 26
+Email: jjj
+Job Title: jjj
+--------------------------------------------------------------------------
+**************** Employee Information ****************
+--------------------------------------------------------------------------
+First Name: jaouad
+Last Name: mouaou
+Social Security: 111
+Date Of Birth: 12/12/1989
+Address: jjj
+Age: 26
+Email: jjj
+Job Title: jjj
+--------------------------------------------------------------------------
+**************** Employee Information ****************
+--------------------------------------------------------------------------
+First Name: brahim
+Last Name: mouao111
+Social Security: 111
+Date Of Birth: 12/12/1990
+Address: 5 w2 st111
+Age: 25
+Email: devjaouad222
+Job Title: kkkIT
+--------------------------------------------------------------------------
+**************** Employee Information ****************
+--------------------------------------------------------------------------
+First Name: brahim
+Last Name: mouao111
+Social Security: 111
+Date Of Birth: 12/12/1990
+Address: 5 w2 st111
+Age: 25
+Email: devjaouad222
+Job Title: kkkIT
+--------------------------------------------------------------------------
+**************** Employee Information ****************
+--------------------------------------------------------------------------
+First Name: jaouad
+Last Name: mouaou
+Social Security: 111
+Date Of Birth: 12/02/1989
+Address: 12 w12 st
+Age: 26
+Email: dev@gmail.co
+Job Title: IT
+--------------------------------------------------------------------------
+**************** Employee Information ****************
+--------------------------------------------------------------------------
+First Name: jaouad
+Last Name: mouaou
+Social Security: 111
+Date Of Birth: 12/02/1989
+Address: 12 w12 st
+Age: 26
+Email: dev@gmail.co
+Job Title: IT
+
+--------------------------------------------------------------------------
+**************** Customer Information ****************
+--------------------------------------------------------------------------
+First Name: JAOUAD
+Last Name: MOUAOU
+ID: 
+Date Of Birth: 12/12/2000
+Address: 1 K
+Phone: 1111
+Age: 15
+Email: DEV
+--------------------------------------------------------------------------
+**************** Customer Information ****************
+--------------------------------------------------------------------------
+First Name: JOUAD
+Last Name: MOUAOU
+ID: 333
+Date Of Birth: 12/12/2010
+Address: 12 WST
+Phone: 444
+Age: 5
+Email: KK
+--------------------------------------------------------------------------
+**************** Customer Information ****************
+--------------------------------------------------------------------------
+First Name: KHALID
+Last Name: MOUOU
+ID: 222
+Date Of Birth: 12/12/2002
+Address: 1212
+Phone: 2121
+Age: 13
+Email: 2121
+--------------------------------------------------------------------------
+**************** Employee Information ****************
+--------------------------------------------------------------------------
+First Name: kjkj
+Last Name: kjkj
+Social Security: kjkj
+Date Of Birth: 12/12/1989
+Address: kjkj
+Age: 26
+Email: kjkj
+Job Title: kjk
+--------------------------------------------------------------------------
+**************** Employee Information ****************
+--------------------------------------------------------------------------
+First Name: lklk
+Last Name: lklk
+Social Security: 777
+Date Of Birth: 12/12/1980
+Address: jkjkjk
+Age: 35
+Email: kjk
+Job Title: kjk
+--------------------------------------------------------------------------
+**************** Employee Information ****************
+--------------------------------------------------------------------------
+First Name: lklk
+Last Name: lklk
+Social Security: 777
+Date Of Birth: 12/12/1980
+Address: jkjkjk
+Age: 35
+Email: kjk
+Job Title: kjk
+--------------------------------------------------------------------------
+**************** Employee Information ****************
+--------------------------------------------------------------------------
+First Name: kjkj
+Last Name: kjkjk
+Social Security: 111
+Date Of Birth: 12/12/1989
+Address: kjkj
+Age: 26
+Email: kjkj
+Job Title: kjk
+--------------------------------------------------------------------------
+**************** Employee Information ****************
+--------------------------------------------------------------------------
+First Name: kjkj
+Last Name: kjkjk
+Social Security: 111
+Date Of Birth: 12/12/1989
+Address: kjkj
+Age: 26
+Email: kjkj
+Job Title: kjk
+--------------------------------------------------------------------------
+**************** Employee Information ****************
+--------------------------------------------------------------------------
+First Name: lklk
+Last Name: lklk
+Social Security: 777
+Date Of Birth: 12/12/1980
+Address: jkjkjk
+Age: 35
+Email: kjk
+Job Title: kjk
+--------------------------------------------------------------------------
+**************** Customer Information ****************
+--------------------------------------------------------------------------
+First Name: JAOUAD
+Last Name: MOUAOU
+ID: 444
+Date Of Birth: 12/12/2000
+Address: 1 K
+Phone: 1111
+Age: 15
+Email: DEV
